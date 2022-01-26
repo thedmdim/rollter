@@ -36,7 +36,7 @@ Then, to access TOR/I2P, connect to `http://192.168.42.1:8888`
 7. Connect to the VPN
 ### iOS
 1. Go Settings -> General -> VPN
-2. Select IPsec connection
+2. Select L2TP connection
 3. Scroll down to proxy settings
 4. Select manual
 5. Enter 192.168.42.1:8888
