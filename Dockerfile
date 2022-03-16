@@ -1,4 +1,7 @@
 FROM hwdsl2/ipsec-vpn-server:latest
+RUN echo "http://dl-3.alpinelinux.org/alpine/edge/main \n\
+http://dl-3.alpinelinux.org/alpine/edge/community" > /etc/apk/repositories
+RUN apk update && apk upgrade
 RUN apk add --no-cache tinyproxy tor i2pd
 COPY ./tinyproxy.conf /etc/tinyproxy/tinyproxy.conf
 RUN cp /etc/tor/torrc.sample /etc/tor/torrc
