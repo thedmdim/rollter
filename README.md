@@ -1,7 +1,7 @@
 # Rollter
 IPsec VPN server with i2p onion and yggdrasil routing
 
-WEB serfing with no limits. Open any sites, including onion ones and i2p too!
+WEB serfing with no limits. Open any sites: onion, i2p and yggdrasil too!
 
 Based on [IPsec VPN server by hwdsl2](https://github.com/hwdsl2/docker-ipsec-vpn-server)
 
