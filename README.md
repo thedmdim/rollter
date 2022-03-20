@@ -1,5 +1,5 @@
 # Rollter
-IPsec VPN server with i2p and onion routing
+IPsec VPN server with i2p onion and yggdrasil routing
 
 WEB serfing with no limits. Open any sites, including onion ones and i2p too!
 
