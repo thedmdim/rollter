@@ -25,7 +25,7 @@ docker run \
     thedmdim/rollter
 ```
 
-Then, to access TOR/I2P, connect to `http://192.168.42.1:8888`
+Then, to access TOR/I2P/YGG, connect to `http://192.168.42.1:8888`
 ### In Windows 10:
 1. Set up a manual VPN l2tp/IPsec connection on Windows 10
 2. Go to Network Connections > VPN
