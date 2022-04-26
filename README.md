@@ -11,6 +11,8 @@ Based on [IPsec VPN server by hwdsl2](https://github.com/hwdsl2/docker-ipsec-vpn
 - docker server
 ## How does it works?
 ![](diagram.png)
+## Plans
+- Move from TinyProxy to 3proxy for transparent rounting without necessity to specify proxy in VPN settings
 
 ## Start server
 ```sh
