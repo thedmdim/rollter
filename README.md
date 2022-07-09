@@ -1,3 +1,6 @@
+[![Docker Pulls](https://img.shields.io/docker/pulls/thedmdim/rollter)](https://hub.docker.com/r/thedmdim/rollter)
+[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/thedmdim/rollter/latest)](https://hub.docker.com/r/thedmdim/rollter)
+
 # Rollter
 IPsec VPN server with i2p onion and yggdrasil routing
 
